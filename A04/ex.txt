@@ -1,5 +1,0 @@
-Crie uma API em PHP que recebe o peso e a altura de uma pessoa, calcula o IMC e
-retorna o IMC, a classificação e quantos kilos a pessoa deve ganhar ou perder
-para ficar com 24,9 de IMC. Mostre como usar a API.
-
-https://docs.google.com/forms/d/e/1FAIpQLSc7HhAIy3Um0S-D-LeqJyCRKlB-Nkfa6I0PEKZOP-SAR8_ldw/viewform?pli=1
